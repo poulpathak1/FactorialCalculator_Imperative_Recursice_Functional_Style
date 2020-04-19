@@ -1,0 +1,11 @@
+X Canary
+X checkFactorialForOneDigitNumber{0, 1, 2, 3, 5, 10}
+X checkFactorialForTwoDigitNumber{50}
+X factorialForNegativeNumber{-1}
+X checkRecursiveFactorialForOneDigitNumber{0, 1, 2, 3, 5, 10}
+X checkRecursiveFactorialForTwoDigitNumber{50}
+X recursiveFactorialForNegativeNumber{-1}
+x FunctionalStyle checkFactorialForOneDigitNumber{0, 1, 2, 3, 5, 10}
+X FunctionalStyle checkFactorialForTwoDigitNumber{50}
+X FunctionalStyle factorialForNegativeNumber{-1}
+
